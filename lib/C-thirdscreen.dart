@@ -1,9 +1,9 @@
 
 
 import 'package:flutter/material.dart';
-import 'fifthscreen.dart';
-import 'forthscreen.dart';
-import 'mainscreen.dart';
+import 'E-fifthscreen.dart';
+import 'D-forthscreen.dart';
+import 'I-mainscreen.dart';
 import 'B-secondscreen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';

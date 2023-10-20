@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'mainscreen.dart';
-import 'sixthscreen.dart';
+import 'I-mainscreen.dart';
+import 'F-sixthscreen.dart';
 import 'C-thirdscreen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;

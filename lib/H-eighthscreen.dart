@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'seventhscreen.dart';
+import 'G-seventhscreen.dart';
 
 class MyWidget7 extends StatefulWidget {
   const MyWidget7({super.key});

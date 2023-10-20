@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'eighthscreen.dart';
-import 'sixthscreen.dart';
+import 'H-eighthscreen.dart';
+import 'F-sixthscreen.dart';
 
 class MyWidget6 extends StatefulWidget {
   const MyWidget6({super.key});
