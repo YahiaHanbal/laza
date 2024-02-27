@@ -1,4 +1,4 @@
-# Laza: A Flutter E-commerce UI Kit (In Progress)
+# Laza: A Flutter E-commerce application (In Progress)
 
 ## Introduction:
 
