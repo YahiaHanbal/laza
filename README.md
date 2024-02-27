@@ -15,6 +15,10 @@ Laza aims to provide an extensive array of meticulously crafted and customizable
 
 While this project is currently a work in progress, the included UI design assets offer a glimpse into its envisioned capabilities. We invite you to explore and contribute your expertise towards its refinement and completion.
 
+## UI Design:
+
+Explore the UI design in Figma: [Laza - Ecommerce Mobile App UI Kit (Community)](https://www.figma.com/file/SfE4CBauw1UAMwindpEgnq/Laza---Ecommerce-Mobile-App-UI-Kit-(Community)?type=design&node-id=0%3A1&mode=design&t=QTtp56f6vxru5I1t-1)
+
 ## Get Involved:
 
 Unlock the potential of your Flutter expertise by joining our community of contributors. Feel empowered to enhance and share your contributions to this project, fostering growth and mastery in Flutter development.
